@@ -40,7 +40,7 @@ The console is the first segment of the AirBnB project at Holberton School that 
 
 ## Installation
 
-* Clone this repository: `git clone "https://github.com/ralexrivero/AirBnB_clone_v3"`
+* Clone this repository: `git clone "https://github.com/omichsam/AirBnB_clone_v3"`
 * Access AirBnb directory: `cd AirBnB_clone`
 * Run hbnb(interactively): `./console` and enter command
 * Run hbnb(non-interactively): `echo "<command>" | ./console.py`
@@ -178,19 +178,3 @@ EOF  all  create  destroy  help  quit  show  update
 
 No known bugs at this time.
 
-## Authors
-
-> Joaquin
-
-<!-- twitter -->
-[![Twitter](https://img.shields.io/twitter/follow/tatinfa?style=social)](https://twitter.com/tatinfa) <!-- linkedin --> [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/joaqu%C3%ADn-pintaluba/) <!-- github --> [![Github](https://img.shields.io/github/followers/jopinta?style=social)](https://github.com/jopinta)
-
-> Federico
-
-<!-- github -->
-[![Github](https://img.shields.io/github/followers/fedeblengio?style=social)](https://github.com/fedeblengio/)
-
-> Ronald
-
-<!-- twitter -->
-[![Twitter](https://img.shields.io/twitter/follow/ralex_uy?style=social)](https://twitter.com/ralex_uy) <!-- linkedin --> [![Linkedin](https://img.shields.io/badge/LinkedIn-+22K-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/ronald-rivero/) <!-- github --> [![Github](https://img.shields.io/github/followers/ralexrivero?style=social)](https://github.com/ralexrivero/) <!-- vagrant --> [![Vagrant](https://img.shields.io/static/v1?label=&message=Vagrant%20Profile&color=1868F2&logo=vagrant&labelColor=2F333A)](https://app.vagrantup.com/ralexrivero) <!-- docker --> [![Docker](https://img.shields.io/static/v1?label=&message=Docker%20Profile&color=2496ED&logo=Docker&labelColor=2F333A)](https://hub.docker.com/u/ralexrivero)
